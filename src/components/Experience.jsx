@@ -31,8 +31,8 @@ const Experience = () => {
     },
     {
       id: 4,
-      src: reactImage,
-      title: "React",
+      src: "https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png",
+      title: "Php",
       style: "shadow-blue-600",
     },
     {
@@ -48,12 +48,7 @@ const Experience = () => {
       title: "GitHub",
       style: "shadow-gray-400",
     },
-    {
-      id: 8,
-      src: python,
-      title: "Python",
-      style: "shadow-gray-400",
-    },
+    
     
     {
       id: 10,

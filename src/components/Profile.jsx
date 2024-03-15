@@ -15,7 +15,7 @@ export const Profile = () => {
             I'm an Android Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 4 years of experience in Android Development. Currently, I love to work on mobile applications using technologies like Java, Kotlin, Retrofit, and much more.
+            I have 3 years of experience in Android Development. Currently, I love to work on mobile applications using technologies like Java, Kotlin, Retrofit, and much more.
           </p>
 
           <div>
